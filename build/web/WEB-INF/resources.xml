@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="vetDB" type="javax.sql.DataSource">#Sat Aug 27 23:10:55 BRT 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=123
+userName=adm
+jdbcUrl=jdbc\:derby\://localhost\:1527/VetDB
+</Resource>
+</resources>
